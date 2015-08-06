@@ -1,0 +1,5 @@
+C:\inetpub\wwwroot\ldaproj\ldaproj\ldaproj\bin\ldaproj.dll
+C:\inetpub\wwwroot\ldaproj\ldaproj\ldaproj\bin\ldaproj.pdb
+C:\inetpub\wwwroot\ldaproj\ldaproj\ldaproj\obj\Debug\ldaproj.dll
+C:\inetpub\wwwroot\ldaproj\ldaproj\ldaproj\obj\Debug\ldaproj.pdb
+C:\inetpub\wwwroot\ldaproj\ldaproj\ldaproj\obj\Debug\ldaproj.csprojResolveAssemblyReference.cache
